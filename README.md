@@ -1,13 +1,15 @@
-# project1
+# Project-1-Bootcamp
 
-# Contents
-Reporitory for project 1
+# Team Members:
+* Luis Cavazos
+* Mario Ibarra
+* René Mondragón
+* Berenice Cedillo
 
-### Folder 1
+### Project description
 contains...
 
-### Folder 2
+### Research question
 contains...
 
-### Folder 3
-contains...
+
