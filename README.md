@@ -6,10 +6,3 @@
 * René Mondragón
 * Berenice Cedillo
 
-### Project description
-contains...
-
-### Research question
-contains...
-
-
